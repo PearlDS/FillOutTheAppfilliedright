@@ -1,9 +1,10 @@
 package be.intecbrussel.zoo.controllers.interfaces;
 
-import be.intecbrussel.zoo.data.Country;
+
+import org.springframework.ui.Model;
 
 public interface AnimalController {
 
-    String seeAllAnimalsByCountry(Country country);
+    String seeAllAnimalsByCountry(Model model, String countryName);
     String addAnimal(String animalName, String countryName);
 }

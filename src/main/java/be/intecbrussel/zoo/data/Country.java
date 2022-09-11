@@ -1,9 +1,17 @@
 package be.intecbrussel.zoo.data;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
 public class Country {
 
+    @Id
     private String countryName;
     private String continent;
+
+    public Country() {
+    }
 
     public Country(String countryName) {
         this.countryName = countryName;

@@ -1,0 +1,13 @@
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/ZooApp.java
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/controllers/interfaces/AnimalController.java
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/data/Animal.java
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/services/interfaces/CountryService.java
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/data/Country.java
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/controllers/implementations/AnimalControllerImpl.java
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/controllers/interfaces/CountryController.java
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/repositories/CountryRepository.java
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/controllers/implementations/CountryControllerImpl.java
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/services/implementations/CountryServicImpl.java
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/services/implementations/AnimalServiceImpl.java
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/repositories/AnimalRepository.java
+/Users/pearl/Documents/Projects/FillOutTheApp/src/main/java/be/intecbrussel/zoo/services/interfaces/AnimalService.java

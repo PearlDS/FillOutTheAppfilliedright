@@ -5,7 +5,7 @@
 <head>
 
     <title>Animals</title>
-    <link rel = "stylesheet" href = "cssFTW.css">
+    <link rel = "stylesheet" href = "css/cssFTW.css">
 
 </head>
 
@@ -31,12 +31,11 @@
         <li>animal 3 <button>Delete</button></li>
     </ol>
 
-    <form method= "post" th:action = @{/addAnimal}>
+    <form method= "post" th:action = @{/addAnimal/{c}(c=${animal.country.countryName})}>
 
         <input type="text" name="animalName" th:text = ${animal.animalName}>
-        <input type="hidden" name="countryName" th:text = ${country.countryName}>
 
-        <input type="submit" value="login">
+        <input type="submit" value="create">
 
 
     </form>
